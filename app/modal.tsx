@@ -27,7 +27,7 @@ export default function Modal() {
         <ThemedText type="title">Explorador de Pokémons</ThemedText>
       </ThemedView>
       <ThemedText>
-        Este app apreseenta informações sobre Pokémons obtidas a partir da{" "}
+        Este app apresenta informações sobre Pokémons obtidas a partir da{" "}
         <ExternalLink href="https://pokeapi.co/">
           <ThemedText type="link">Poké API</ThemedText>
         </ExternalLink>
